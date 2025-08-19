@@ -1,4 +1,4 @@
-End-to-End Visual Speech Recognition  
+#End-to-End Visual Speech Recognition  
 
 An implementation of an end-to-end deep learning model for **Visual Speech Recognition** that directly maps lip movements in video to text sentences.  
 
@@ -63,4 +63,4 @@ The system demonstrates robustness in varied scenarios, including:
 * Petridis, S., Li, Z., & Pantic, M. (2017). *End-to-End Visual Speech Recognition with LSTMs*, ICASSP.
 * Shillingford, B. et al. (2018). *Large-Scale Visual Speech Recognition*, arXiv.
 
---
+
