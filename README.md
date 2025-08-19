@@ -1,4 +1,4 @@
-#End-to-End Visual Speech Recognition  
+# End-to-End Visual Speech Recognition  
 
 An implementation of an end-to-end deep learning model for **Visual Speech Recognition** that directly maps lip movements in video to text sentences.  
 
